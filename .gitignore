@@ -1,0 +1,31 @@
+# Build Android / Java
+classes/
+dex/
+build/
+.gradle/
+*.class
+*.dex
+*.jar
+*.aab
+
+# APKs
+*.apk
+
+# Chaves e assinaturas
+*.keystore
+*.jks
+
+# Configuração local
+local.properties
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Logs
+*.log
+
+# Sistema
+Thumbs.db
+.DS_Store
